@@ -49,4 +49,4 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link | 
 | :---: | :---: | :---: | 
-| 01  | Class and Objects| [Lab01](https://github.com/Arnob678/ECE-1204_2410035/blob/main/Lab_Report/Lab%2001.md)|
+| 01  | | [Lab01]()|
