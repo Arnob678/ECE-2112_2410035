@@ -23,7 +23,7 @@ _**Heaven’s Light is Our Guide**_
 ---  
 ##  Submitted to: 
 
-### **MST. Mazeda Noor Tasnim **
+### MST. Mazeda Noor Tasnim 
 #### Lecturer
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
@@ -47,6 +47,6 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Assignment No. | Title | Link | Codeforce |
-| :---: | :---: | :---: | :---: | 
+| Assignment No. | Title | Link | 
+| :---: | :---: | :---: | 
 | 01  | Class and Objects| [Lab01](https://github.com/Arnob678/ECE-1204_2410035/blob/main/Lab_Report/Lab%2001.md)|
