@@ -14,7 +14,7 @@ _**Heaven’s Light is Our Guide**_
   ### **Department of Electrical & Computer Engineering**
   ### **Lab Reports**<br>
   **Course Name:** Digital Electronics Sessional<br>
-  **Course Code:** ECE 2104
+  **Course Code:** ECE 2112
   
 </div>
 <br>
