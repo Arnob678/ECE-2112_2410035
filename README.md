@@ -13,8 +13,8 @@ _**Heaven’s Light is Our Guide**_
   ## **Rajshahi University of Engineering and Technology** <br> 
   ### **Department of Electrical & Computer Engineering**
   ### **Lab Reports**<br>
-  **Course Name:** Computer Programming Sessional<br>
-  **Course Code:** ECE 1204
+  **Course Name:** Digital Electronics Sessional<br>
+  **Course Code:** ECE 2104
   
 </div>
 <br>
