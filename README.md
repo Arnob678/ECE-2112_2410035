@@ -50,3 +50,4 @@ _**Heaven’s Light is Our Guide**_
 | Assignment No. | Title | Link | 
 | :---: | :---: | :---: | 
 | 01  | | [Lab01](https://github.com/Arnob678/ECE-2112_2410035/blob/main/Lab%20Reports/Lab1_merged.pdf)|
+| 02  | | [Lab02](https://github.com/Arnob678/ECE-2112_2410035/blob/main/Lab%20Reports/Lab_2.pdf)|
